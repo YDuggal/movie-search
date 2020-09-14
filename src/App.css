@@ -1,0 +1,9 @@
+.titleBar {
+  display: block;
+  color: #000000;
+  padding-left: 16px;
+}
+
+.App {
+  text-align: center;
+}
